@@ -1,0 +1,64 @@
+C:\Users\abhay\source\repos\ASP.NET CORE\Practical_16\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\abhay\source\repos\ASP.NET CORE\Practical_16\bin\Debug\net6.0\appsettings.json
+C:\Users\abhay\source\repos\ASP.NET CORE\Practical_16\bin\Debug\net6.0\Practical_16.exe
+C:\Users\abhay\source\repos\ASP.NET CORE\Practical_16\bin\Debug\net6.0\Practical_16.deps.json
+C:\Users\abhay\source\repos\ASP.NET CORE\Practical_16\bin\Debug\net6.0\Practical_16.runtimeconfig.json
+C:\Users\abhay\source\repos\ASP.NET CORE\Practical_16\bin\Debug\net6.0\Practical_16.dll
+C:\Users\abhay\source\repos\ASP.NET CORE\Practical_16\bin\Debug\net6.0\Practical_16.pdb
+C:\Users\abhay\source\repos\ASP.NET CORE\Practical_16\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\abhay\source\repos\ASP.NET CORE\Practical_16\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\abhay\source\repos\ASP.NET CORE\Practical_16\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\abhay\source\repos\ASP.NET CORE\Practical_16\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\abhay\source\repos\ASP.NET CORE\Practical_16\obj\Debug\net6.0\Practical_16.csproj.AssemblyReference.cache
+C:\Users\abhay\source\repos\ASP.NET CORE\Practical_16\obj\Debug\net6.0\Practical_16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhay\source\repos\ASP.NET CORE\Practical_16\obj\Debug\net6.0\Practical_16.AssemblyInfoInputs.cache
+C:\Users\abhay\source\repos\ASP.NET CORE\Practical_16\obj\Debug\net6.0\Practical_16.AssemblyInfo.cs
+C:\Users\abhay\source\repos\ASP.NET CORE\Practical_16\obj\Debug\net6.0\Practical_16.csproj.CoreCompileInputs.cache
+C:\Users\abhay\source\repos\ASP.NET CORE\Practical_16\obj\Debug\net6.0\Practical_16.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\abhay\source\repos\ASP.NET CORE\Practical_16\obj\Debug\net6.0\Practical_16.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\abhay\source\repos\ASP.NET CORE\Practical_16\obj\Debug\net6.0\staticwebassets\msbuild.Practical_16.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\abhay\source\repos\ASP.NET CORE\Practical_16\obj\Debug\net6.0\staticwebassets\msbuild.build.Practical_16.props
+C:\Users\abhay\source\repos\ASP.NET CORE\Practical_16\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Practical_16.props
+C:\Users\abhay\source\repos\ASP.NET CORE\Practical_16\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Practical_16.props
+C:\Users\abhay\source\repos\ASP.NET CORE\Practical_16\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\abhay\source\repos\ASP.NET CORE\Practical_16\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\abhay\source\repos\ASP.NET CORE\Practical_16\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\abhay\source\repos\ASP.NET CORE\Practical_16\obj\Debug\net6.0\scopedcss\bundle\Practical_16.styles.css
+C:\Users\abhay\source\repos\ASP.NET CORE\Practical_16\obj\Debug\net6.0\Practical_16.csproj.CopyComplete
+C:\Users\abhay\source\repos\ASP.NET CORE\Practical_16\obj\Debug\net6.0\Practical_16.dll
+C:\Users\abhay\source\repos\ASP.NET CORE\Practical_16\obj\Debug\net6.0\refint\Practical_16.dll
+C:\Users\abhay\source\repos\ASP.NET CORE\Practical_16\obj\Debug\net6.0\Practical_16.pdb
+C:\Users\abhay\source\repos\ASP.NET CORE\Practical_16\obj\Debug\net6.0\Practical_16.genruntimeconfig.cache
+C:\Users\abhay\source\repos\ASP.NET CORE\Practical_16\obj\Debug\net6.0\ref\Practical_16.dll
+C:\Users\abhay\source\repos\.NET CORE LMS PRACTICAL\Practical_16\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\abhay\source\repos\.NET CORE LMS PRACTICAL\Practical_16\bin\Debug\net6.0\appsettings.json
+C:\Users\abhay\source\repos\.NET CORE LMS PRACTICAL\Practical_16\bin\Debug\net6.0\Practical_16.exe
+C:\Users\abhay\source\repos\.NET CORE LMS PRACTICAL\Practical_16\bin\Debug\net6.0\Practical_16.deps.json
+C:\Users\abhay\source\repos\.NET CORE LMS PRACTICAL\Practical_16\bin\Debug\net6.0\Practical_16.runtimeconfig.json
+C:\Users\abhay\source\repos\.NET CORE LMS PRACTICAL\Practical_16\bin\Debug\net6.0\Practical_16.dll
+C:\Users\abhay\source\repos\.NET CORE LMS PRACTICAL\Practical_16\bin\Debug\net6.0\Practical_16.pdb
+C:\Users\abhay\source\repos\.NET CORE LMS PRACTICAL\Practical_16\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\abhay\source\repos\.NET CORE LMS PRACTICAL\Practical_16\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\abhay\source\repos\.NET CORE LMS PRACTICAL\Practical_16\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\abhay\source\repos\.NET CORE LMS PRACTICAL\Practical_16\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\abhay\source\repos\.NET CORE LMS PRACTICAL\Practical_16\obj\Debug\net6.0\Practical_16.csproj.AssemblyReference.cache
+C:\Users\abhay\source\repos\.NET CORE LMS PRACTICAL\Practical_16\obj\Debug\net6.0\Practical_16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhay\source\repos\.NET CORE LMS PRACTICAL\Practical_16\obj\Debug\net6.0\Practical_16.AssemblyInfoInputs.cache
+C:\Users\abhay\source\repos\.NET CORE LMS PRACTICAL\Practical_16\obj\Debug\net6.0\Practical_16.AssemblyInfo.cs
+C:\Users\abhay\source\repos\.NET CORE LMS PRACTICAL\Practical_16\obj\Debug\net6.0\Practical_16.csproj.CoreCompileInputs.cache
+C:\Users\abhay\source\repos\.NET CORE LMS PRACTICAL\Practical_16\obj\Debug\net6.0\Practical_16.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\abhay\source\repos\.NET CORE LMS PRACTICAL\Practical_16\obj\Debug\net6.0\Practical_16.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\abhay\source\repos\.NET CORE LMS PRACTICAL\Practical_16\obj\Debug\net6.0\staticwebassets\msbuild.Practical_16.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\abhay\source\repos\.NET CORE LMS PRACTICAL\Practical_16\obj\Debug\net6.0\staticwebassets\msbuild.build.Practical_16.props
+C:\Users\abhay\source\repos\.NET CORE LMS PRACTICAL\Practical_16\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Practical_16.props
+C:\Users\abhay\source\repos\.NET CORE LMS PRACTICAL\Practical_16\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Practical_16.props
+C:\Users\abhay\source\repos\.NET CORE LMS PRACTICAL\Practical_16\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\abhay\source\repos\.NET CORE LMS PRACTICAL\Practical_16\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\abhay\source\repos\.NET CORE LMS PRACTICAL\Practical_16\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\abhay\source\repos\.NET CORE LMS PRACTICAL\Practical_16\obj\Debug\net6.0\scopedcss\bundle\Practical_16.styles.css
+C:\Users\abhay\source\repos\.NET CORE LMS PRACTICAL\Practical_16\obj\Debug\net6.0\Practical_16.csproj.CopyComplete
+C:\Users\abhay\source\repos\.NET CORE LMS PRACTICAL\Practical_16\obj\Debug\net6.0\Practical_16.dll
+C:\Users\abhay\source\repos\.NET CORE LMS PRACTICAL\Practical_16\obj\Debug\net6.0\refint\Practical_16.dll
+C:\Users\abhay\source\repos\.NET CORE LMS PRACTICAL\Practical_16\obj\Debug\net6.0\Practical_16.pdb
+C:\Users\abhay\source\repos\.NET CORE LMS PRACTICAL\Practical_16\obj\Debug\net6.0\Practical_16.genruntimeconfig.cache
+C:\Users\abhay\source\repos\.NET CORE LMS PRACTICAL\Practical_16\obj\Debug\net6.0\ref\Practical_16.dll
